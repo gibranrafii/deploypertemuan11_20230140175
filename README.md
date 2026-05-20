@@ -19,3 +19,4 @@
 
 ### table
 <img width="1443" height="554" alt="image" src="https://github.com/user-attachments/assets/f99f4acc-c809-4d2f-b436-c91c5c58616a" />
+<img width="1408" height="147" alt="image" src="https://github.com/user-attachments/assets/f7bb0da9-1a81-45b9-8aab-8e72dffb77ea" />
